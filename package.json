@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mohebifar/react-native-waiting.git"
+    "url": "git+https://github.com/AhmedAliA/react-native-waiting.git"
   },
   "keywords": [
     "react",
@@ -23,9 +23,9 @@
   "author": "Mohamad Mohebifar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mohebifar/react-native-waiting/issues"
+    "url": "https://github.com/AhmedAliA/react-native-waiting/issues"
   },
-  "homepage": "https://github.com/mohebifar/react-native-waiting#readme",
+  "homepage": "https://github.com/AhmedAliA/react-native-waiting#readme",
   "devDependencies": {
     "babel-eslint": "^6.0.2",
     "eslint": "^2.7.0",
