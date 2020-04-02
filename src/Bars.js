@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import { Animated, ART } from 'react-native';
-const { Surface } = ART;
-
+import { Animated } from 'react-native';
+import { Surface, Shape } from '@react-native-community/art';
 import Bar from './animated/Bar';
 
 export default class Bubbles extends Component {
